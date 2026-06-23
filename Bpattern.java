@@ -1,4 +1,4 @@
-//For odd numbers
+//For odd numbers and as well as even numbers
 import java.io.*;
 import java.util.*;
 import java.lang.*;
